@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae55d05b-3197-4f93-833f-13b3c927e60a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/fizzbuzz">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2YXH7BukfOsfVK4F4VlEtsiojFr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "android.gradle.sync.needed": "true",
+    "jdk.selected.JAVA_MODULE": "21",
+    "last_opened_file_path": "/Users/aprescott/Development/learning/spring-boot-et/room-web-app/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.45384616",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/room-web-app/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.adamprescott.lil.sbet.clr.roomcleanernotifier" />
+      <recent name="com.adamprescott.lil.sbet.clr.roomclr" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RoomWebAppApplication">
+    <configuration name="All in room-web-app" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="room-web-app" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootingWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="spring.profiles.active" value="dev" />
+      </envs>
+      <module name="booting-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.adamprescott.lil.sbet.bootingweb.BootingWebApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adamprescott.lil.sbet.bootingweb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzbuzzApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="fizzbuzz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.adamprescott.lil.sbet.clr.fizzbuzz.FizzbuzzApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzbuzzApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="fizzbuzz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.adamprescott.lil.sbet.clr.fizzbuzz.FizzbuzzApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoomCleanerNotifierApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="room-cleaner-notifier" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.adamprescott.lil.sbet.clr.roomcleanernotifier.RoomCleanerNotifierApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoomClrApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="room-clr" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.adamprescott.lil.sbet.clr.roomclr.RoomClrApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoomWebAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="room-web-app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.adamprescott.lil.sbet.landon.roomwebapp.RoomWebAppApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.All in room-web-app" />
+      <item itemvalue="Spring Boot.RoomCleanerNotifierApplication" />
+      <item itemvalue="Spring Boot.FizzbuzzApplication" />
+      <item itemvalue="Spring Boot.FizzbuzzApplication (1)" />
+      <item itemvalue="Spring Boot.RoomClrApplication" />
+      <item itemvalue="Spring Boot.RoomWebAppApplication" />
+      <item itemvalue="Spring Boot.BootingWebApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in room-web-app" />
+        <item itemvalue="Spring Boot.BootingWebApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae55d05b-3197-4f93-833f-13b3c927e60a" name="Changes" comment="" />
+      <created>1700664834851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700664834851</updated>
+      <workItem from="1700664835851" duration="102000" />
+      <workItem from="1700665925038" duration="280000" />
+      <workItem from="1700666210693" duration="9465000" />
+      <workItem from="1700685048411" duration="12724000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
